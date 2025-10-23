@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
+* [如何利用图书馆进行心理学研究——潘菽图书馆使用指南](README.md)
 * [目录](mu-lu.md)
 * [Page 1](page-1.md)
 
